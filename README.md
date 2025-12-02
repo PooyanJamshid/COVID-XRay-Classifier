@@ -50,7 +50,7 @@ The project uses the **COVID-19 Radiography Dataset** containing X-ray images of
 
 
 
-![Visual DATA](IMAGES/data_visual.png)
+![Visual DATA](IMAGES/data_set.png)
 
 
 
