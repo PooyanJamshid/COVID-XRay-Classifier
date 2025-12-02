@@ -46,7 +46,7 @@ The project uses the **COVID-19 Radiography Dataset** containing X-ray images of
 - Viral pneumonia
 - Lung opacity
 - Normal lungs
-  ## 📷 Data Visualization (Grad-CAM / Predictions)
+  ## 📷 Data Visualization
 
 
 
@@ -70,11 +70,19 @@ The project uses the **COVID-19 Radiography Dataset** containing X-ray images of
 > Or should we focus on smaller, specialized models that deliver high accuracy at low computational cost?**”
 
 ---
+## 📷 Result Visualization (Grad-CAM / Predictions)
+
+Below is an example of how the model focuses on important lung regions using Grad-CAM:
+
+![Grad-CAM Example](IMAGES/heat_map.png)
+
+
+
 
 ## 🔧 Installation & Usage
 
 ### 1️⃣ Clone the repository:
 ```bash
-git clone https://github.com/USERNAME/covid-xray-classifier.git
+git clone https://github.com/PooyanJamshid/covid-xray-classifier.git
 cd covid-xray-classifier
 
